@@ -1,0 +1,4 @@
+A text file to test adding and committing using Git.
+Now I have added a branch called new_branch1 to practise
+switching branches, pushing changes to the online repo on Github,
+and merging side branches with the main branch.
